@@ -80,7 +80,9 @@ Shows variability in species distribution over time.
 ## 5. Reclassified Standard Deviation
 Simplifies variability into categories.
 
-![Reclassified SD](./map showing showing reclassified standard deviation for g_saxatile.jpg)
+<p align="center">
+<img src="map showing showing reclassified standard deviation for g_saxatile.jpg" width="850">
+</p>
 
 🔍 Insight:
 - Makes interpretation easier  
@@ -91,7 +93,10 @@ Simplifies variability into categories.
 ## 6. Combined Mean + Standard Deviation
 Final analysis combining raster layers using the PLUS tool.
 
-![Combined Analysis](./SHOWING THE COMBINED RECLASSIFIED MEAN AND STANDARD DEVIATION FOR G_SAXATILE USING THE PLUS TOOL.jpg)
+<p align="center">
+<img src="SHOWING THE COMBINED RECLASSIFIED MEAN AND STANDARD DEVIATION FOR G_SAXATILE USING THE PLUS TOOL.jpg" width="850">
+</p>
+
 
 🔍 Insight:
 - Identifies stable vs dynamic ecological zones  
@@ -102,7 +107,9 @@ Final analysis combining raster layers using the PLUS tool.
 ## 7. Slope Analysis
 Shows terrain steepness across the farm.
 
-![Slope Map](./SHOWING THE SLOPE OF FANSHAWE GATE FARM.jpg)
+<p align="center">
+<img src="SHOWING THE SLOPE OF FANSHAWE GATE FARM.jpg" width="850">
+</p>
 
 🔍 Insight:
 - Green = flat areas (suitable for grazing)  
@@ -113,7 +120,9 @@ Shows terrain steepness across the farm.
 ## 8. Aspect Analysis
 Shows direction of slope (sun exposure).
 
-![Aspect Map](./Showing the Aspect of Fanshawe Gate Farm.jpg)
+<p align="center">
+<img src="Showing the Aspect of Fanshawe Gate Farm.jpg" width="850">
+</p>
 
 🔍 Insight:
 - Influences vegetation growth  
@@ -124,7 +133,10 @@ Shows direction of slope (sun exposure).
 ## 9. Habitat Mapping (Phase 1 Classification)
 Shows classified habitats across the farm.
 
-![Habitat Map](./MAP OF FANSHAWE GATE FARM SHOWING STANDARDISED HABITAT MAPPING USING PHASE 1 CLASSIFICATION TECHNIQUES.jpg)
+
+<p align="center">
+<img src="MAP OF FANSHAWE GATE FARM SHOWING STANDARDISED HABITAT MAPPING USING PHASE 1 CLASSIFICATION TECHNIQUES.jpg" width="850">
+</p>
 
 🔍 Insight:
 - Identifies improved, semi-improved, and natural habitats  
@@ -158,8 +170,11 @@ GIS techniques successfully supported the analysis of environmental features at 
 The study demonstrates how GIS can:
 - Identify ecological patterns  
 - Monitor environmental change  
-- Support sustainable land management  
+- Support sustainable land management
 
----
+- ## 👤 Author
+**Marvis Esivue**  
+GIS & Environmental Analysis  
 
-# 📂 REPOSITORY STRUCTURE
+
+
