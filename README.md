@@ -55,31 +55,21 @@ This map shows interpolated species distribution using inverse distance weightin
 
 
 <p align="center">
-<img src="showing the interpolated output for g_saxatile speciesnusing inverse distance weighting for 2004..jpg" width="850">
+<img src="showing the interpolated output for g_saxatile speciesnusing inverse distance weighting for 2004.jpg" width="850">
 </p>
 
 
 🔍 Insight:
 - Reveals hotspots of species concentration  
 - Based on spatial autocorrelation principle  
-
----
-
-## 3. Change Detection (2004–2011)
-This map shows how species distribution has changed over time.
-
-![Change Map](./MAP SHOWING HOW DISTRIBUTION OF G_SAXATILE HAS CHANGED BETWEEN 2004 AND 2011.jpg)
-
-🔍 Insight:
-- Identifies areas of increase and decrease  
-- Useful for monitoring ecological change  
-
 ---
 
 ## 4. Standard Deviation (3 Years)
 Shows variability in species distribution over time.
 
-![Standard Deviation](./map showing standard deviation of g_saxatilefor 3 years.jpg)
+<p align="center">
+<img src="map showing standard deviation of g_saxatilefor 3 years.jpg" width="850">
+</p>
 
 🔍 Insight:
 - High values = unstable or changing areas  
