@@ -40,7 +40,9 @@ Fanshawe Gate Farm is located near Holmesfield, Sheffield. The farm is managed u
 ## 1. Species Distribution (2004)
 This map shows the raw distribution of *Galium saxatile* using point data.
 
-![Distribution Map](./SHOWING THE DISTRIBUTION OF GALIUM SAXATILE ACROSS ONE OF THE FIELDS AT FANSHAWE GATE FARM..png)
+<p align="center">
+<img src="SHOWING THE DISTRIBUTION OF GALIUM SAXATILE ACROSS ONE OF THE FIELDS AT FANSHAWE GATE FARM..png" width="850">
+</p>
 
 🔍 Insight:
 - Data is discrete and does not show spatial trends clearly  
@@ -51,7 +53,11 @@ This map shows the raw distribution of *Galium saxatile* using point data.
 ## 2. Interpolation (IDW Technique)
 This map shows interpolated species distribution using inverse distance weighting.
 
-![IDW Map](./showing the interpolated output for g_saxatile speciesnusing inverse distance weighting for 2004.jpg)
+
+<p align="center">
+<img src="showing the interpolated output for g_saxatile speciesnusing inverse distance weighting for 2004..jpg" width="850">
+</p>
+
 
 🔍 Insight:
 - Reveals hotspots of species concentration  
